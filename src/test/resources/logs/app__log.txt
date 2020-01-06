@@ -1,0 +1,2 @@
+ERROR   2019-12-28 18:01:45,708 [main] Log4jProject.TestLog4jdebugLog  - Error log.
+INFO    2019-12-28 18:01:45,725 [main] Log4jProject.TestLog4jdebugLog  - Info log
